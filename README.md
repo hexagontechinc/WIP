@@ -13,7 +13,7 @@ Software for security monitoring with single or multiple cameras with:
 - Jetson TX2 + Pi Zeros: A set of 4 raspi zeros stream video over Wi-Fi to a Jetson TX2, which combines inputs from all sources, performs object detection and displays the results on a monitor.
 - Jetson Xavier + Pi Zeros: Same as that of TX2
 
-## Configurations
+## Architecture
 ### Intel Xeon
 ![Architecture 1](https://github.com/hexagontechinc/WIP/DOCS_ANOMALY/Arch.001.jpeg)
 
