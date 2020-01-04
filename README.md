@@ -14,17 +14,9 @@ Software for security monitoring with single or multiple cameras with:
 - Jetson Xavier + Pi Zeros: Same as that of TX2
 
 ## Configurations
-### Raspberry Pi 3
-![Architecture 1](https://github.com/dataplayer12/homesecurity/blob/master/docs/arch1.png)
-----
-### Jetson Nano
-![Architecture 2](https://github.com/dataplayer12/homesecurity/blob/master/docs/arch2.png)
-----
-### Raspberry Pi Zero W + Jetson TX2
-![Architecture 3](https://github.com/dataplayer12/homesecurity/blob/master/docs/arch3.png)
-----
-### Raspberry Pi Zero W + Jetson Xavier
-![Architecture 4](https://github.com/dataplayer12/homesecurity/blob/master/docs/arch4.png)
+### Intel Xeon
+![Architecture 1](https://github.com/hexagontechinc/wip/docs/arch1.png)
+
 
 ## Setup
 Clone the repo and choose the device by modifying the `DEVICE` variable in the `launch.sh` script.
