@@ -19,6 +19,6 @@ In this application, the performance is limited by the bandwidth of your local n
 ## Development
 
 This software was written for monitoring the vibration of rotating equipment. The system related to XEON Level 1 has been in use for about two years and there are failsafes built in to prevent issues such as loss of network connection and memory overflow. Since my requirements are well-served with the current version, more features will be added only if requests are made by raising issues.  Level 2 XEON functionality is proof of concept stage.
-As Model degradation is moderate (See my article <a href="http://hexagontechinc.com/AI_V&V" target="_blank">http://hexagontechinc.com/blog/index.php?controller=post&action=view&id_post=15</a>) it is evaluated and retrained with new data collected on a monthly basis.
+As Model degradation is moderate (See my article <a href="http://hexagontechinc.com/AI_V&V" target="_blank" >http://hexagontechinc.com/blog/index.php?controller=post&action=view&id_post=15</a>) it is evaluated and retrained with new data collected on a monthly basis.
 
 **Pull requests which add useful features or failsafes are more than welcome!**
