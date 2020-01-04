@@ -1,11 +1,7 @@
 # Introduction
 
-Software for security monitoring with single or multiple cameras with:
-- Raspberry pi zero
-- Raspberry pi 3B/4B
-- Jetson Nano
-- Jetson TX2
-- Jetson AGX Xavier
+Software for vibration monitoring and anomalies based on patterns:
+- Intel Xeon processors
 
 ## Functions
 - Raspberry pi 3: The camera performs motion detection and records a video. The video is sent in an email.
