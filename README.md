@@ -15,7 +15,7 @@ Software for security monitoring with single or multiple cameras with:
 
 ## Configurations
 ### Intel Xeon
-![Architecture 1](https://github.com/hexagontechinc/wip/docs/arch1.png)
+![Architecture 1](https://github.com/hexagontechinc/wip/docs_anomaly/Arch.001.jpeg)
 
 
 ## Setup
