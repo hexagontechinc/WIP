@@ -1,6 +1,3 @@
-The Pi Zero requires only `picamera` library to stream videos over a local network:
+Files for Level 1 XEON processor
 
-```Shell
-sudo apt-get update
-sudo apt-get install python-picamera python3-picamera
-```
+
