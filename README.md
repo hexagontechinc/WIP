@@ -14,7 +14,7 @@ Software for vibration monitoring and anomalies based on patterns:
 
 ## Note on network latency:
 
-In this application, the performance is limited by the bandwidth of your local network (not to be confused with neural network ;) ). All the activity can be challenging for a router to keep up with. 5 GHz(802.11 ac in marketing speak) bands are recommended.
+In this application, the performance is limited by the bandwidth of your local network (not to be confused with convolutional neural network - CNN). All the activity can be challenging for a router to keep up with. 5 GHz(802.11 ac in marketing speak) bands are recommended.
 
 ## Development
 
